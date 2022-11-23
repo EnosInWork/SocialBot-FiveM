@@ -1,0 +1,21 @@
+{
+    "token": "",
+
+    "activity": "discord.gg/5dev",
+
+    "imgDarkChat": "https://cdn.iconscout.com/icon/free/png-256/list-message-2367725-1976875.png",
+    "imgDarkChat2": "https://i.imgur.com/g8fmHWp.png",
+
+    "imgTwitter": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+    "imgLeBonCoin": "https://images.ladepeche.fr/api/v1/images/view/5c347c683e45461295307965/full/image.jpg",
+
+    "logsIdChannel": "1044928437485305926",
+
+    "channelTwitter": "1044927299402879048",
+    "channelDarkChat": "1044928409714839552",
+    "channelSuggestion": "1044928528585605161",
+    "channelLbc": "1044928387237552169",
+
+    "reactionUp": "yes",
+    "reactionDown": "no"
+}

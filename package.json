@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fivereborn-query": "^1.0.4",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3"
+  }
+}
